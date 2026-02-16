@@ -24,6 +24,7 @@
 ## // CHANNELS
 [[ BROADCASTS ]] -- [@0bviyus](https://x.com/0bviyus)
 [[ REPOSITORY ]] -- [@openclaw](https://x.com/openclaw)
+[[ CONTACT ]] -- [@obviyuss](https://t.me/obviyuss)
 
 ---
 
