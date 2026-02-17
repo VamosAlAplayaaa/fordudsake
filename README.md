@@ -1,4 +1,4 @@
-# ◈ theymos
+# ◈ GREG
 
 > **curating the digital bedrock.**
 
